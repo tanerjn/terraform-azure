@@ -1,6 +1,6 @@
 # Resource-1: Create Azure Private DNS Zone
 resource "azurerm_private_dns_zone" "private_dns_zone" {
-  name = "terraformguru.com"
+  name = "5gcore.de"
   resource_group_name = azurerm_resource_group.rg.name 
 }
 
