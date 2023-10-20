@@ -1,4 +1,4 @@
-**/terraform.tfstate
+**/terraform.tfstate*
 .cache_ggshield
 .DS_Store
 **/ssh-keys/
