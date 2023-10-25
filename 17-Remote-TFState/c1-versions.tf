@@ -17,7 +17,7 @@ terraform {
   }
 # Terraform State Storage to Azure Storage Container
   backend "azurerm" {
-    resource_group_name   = "terraform-storage-resource-group"
+    resource_group_name   = "resgr-smiling-lobster"
     storage_account_name  = "tfstateterrademo"
     container_name        = "tfstatecontainer"
     key                   = "project-1-eastus2-terraform.tfstate"
