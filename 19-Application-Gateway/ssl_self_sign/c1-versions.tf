@@ -1,4 +1,5 @@
 # Terraform Block
+# Increased Azurerm version for Azure storage account
 terraform {
   required_version = ">= 1.0.0"
   required_providers {
