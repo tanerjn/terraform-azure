@@ -3,3 +3,4 @@
 .DS_Store
 **/ssh-keys/
 **/.terraform
+**/ssl-self-signed
